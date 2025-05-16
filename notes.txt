@@ -1,0 +1,33 @@
+html:5
+
+types of display elements.....
+
+1.inline element: text area
+
+
+2.block element: 100% space .
+
+Special Tags.....
+
+<div></div>
+<section></section>
+<style></style>
+<script></script>
+
+========CSS=======
+CSS = cascading style sheet
+
+Css is written in 3 ways:
+1. inline CSS : written inside a tag with an attribute. style="".
+example: line no. 22
+
+Identifier (needed for internal & external css) for writing CSS....
+> There are 3 types of Identifier:
+i) tags
+ii) class.
+iii) id#
+
+2. internal CSS
+example: line no. 8-12
+
+3. external CSS
